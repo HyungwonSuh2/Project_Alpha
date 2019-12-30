@@ -2,11 +2,17 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="ko">
-<head> 헤더입니다
+<head> 
 <meta charset="UTF-8">
-<title></title>
+<title>알파 홈페이지</title>
 </head>
 <body>
 
+	<header>헤더입니다
+	</header>
+	<Article>본문입니다
+	</Article>
+	<footer>푸터입니다
+	</footer>
 </body>
 </html>
